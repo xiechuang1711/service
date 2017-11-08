@@ -12,7 +12,7 @@ public class CsedemoAgent {
     };
 
 
-    public String sayHei(String name){
+    public String sayHi(String name){
 
         // Do Some Magic Here!
         return null;
@@ -22,7 +22,7 @@ public class CsedemoAgent {
     public String sayHello(String name){
 
         // Do Some Magic Here!
-        return null;
+        return "hi,"+name+"WELCOME TO SERVICESTAGE";
     };
 
 
